@@ -637,15 +637,15 @@ body::before {
   line-height: 1.7;
 }
 
-/* --- Tech Section --- */
-.tech-grid {
+/* --- Mindset Section --- */
+.mindset-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
   gap: 1rem;
   margin-top: 3rem;
 }
 
-.tech-item {
+.mindset-item {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -657,16 +657,16 @@ body::before {
   text-align: center;
 }
 
-.tech-item:hover {
+.mindset-item:hover {
   border-color: var(--color-gold);
   transform: translateY(-4px);
 }
 
-.tech-icon {
+.mindset-icon {
   font-size: 2rem;
 }
 
-.tech-item span {
+.mindset-item span {
   font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.15em;
@@ -813,7 +813,7 @@ body::before {
     grid-template-columns: 1fr;
   }
 
-  .tech-grid {
+  .mindset-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
