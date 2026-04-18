@@ -1,26 +1,3 @@
-# Projeto Syntra
-
-## Sobre o Projeto
-
-O **Projeto Syntra** é um site conceitual criado como base para testes de utilização de Inteligência Artificial aplicada ao desenvolvimento web, design visual e storytelling digital.
-
-A proposta é desenvolver uma experiência visual impactante, utilizando HTML, CSS e componentes modernos com animações avançadas, explorando conceitos como:
-
-- Hero sections cinematográficas
-- Scroll animations
-- Storytelling visual
-- Glassmorphism
-- Motion design
-- Gradientes dinâmicos
-- Efeitos de glow
-- Componentes interativos modernos
-
-O projeto gira em torno da lenda de **Davizão**, um personagem carismático e quase mitológico, conhecido por transformar qualquer ambiente por onde passa.
-
-Mais do que um simples site, o objetivo é criar uma experiência que cause impacto e transmita sensação.
-
----
-
 ## A História de Davizão
 
 O lendário Davi, conhecido por todos como **Davizão**, não era apenas mais um cara da quebrada — ele era praticamente uma entidade.
